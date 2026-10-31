@@ -1,0 +1,6 @@
+{
+  "name": "izmedtzz (izm) — Local-First Visual Document Studio",
+  "description": "Local-first hybrid visual document creation studio combining structured rich-text publishing and freeform spatial graphic design with .izm archive storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

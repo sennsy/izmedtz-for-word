@@ -1,0 +1,6 @@
+{
+  "summary":  "Architectural and UX implementation plan for izmedtzz (izm), a local-first hybrid visual document creation studio combining structured rich-text document editing and freeform spatial canvas design with IndexedDB persistence, .izm archive format, multi-format exports, and full PWA offline support.",
+  "updatedAt":  "2026-10-31T09:21:21.931521353Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
